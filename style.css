@@ -1,0 +1,11 @@
+.calculator{
+   width:300px;
+  height:300px;
+  margin:6%;
+  padding:3%;
+  background-color:#dfdddd;
+
+}
+#display{
+  height:50px;
+}
